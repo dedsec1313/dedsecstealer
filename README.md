@@ -11,8 +11,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/dedsec1313/dedsecstealer?style=flat">
-<img src="https://img.shields.io/github/stars/dedsec1313/doenerium?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doenerium69/doenerium?color=brightgreen">
+<img src="https://img.shields.io/github/stars/dedsec1313/dedsecstealer?color=brightgreen">
+<img src="https://img.shields.io/github/forks/dedsec1313/dedsecstealer?color=brightgreen">
 </p>
 
 <h1 align="center">
