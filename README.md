@@ -141,9 +141,7 @@
 ---
 
 ### 📸 〢 Screenshots
-<img title="" src="https://cdn.discordapp.com/attachments/1199547023398010950/1286508649233256529/image.png?ex=66ee2a0c&is=66ecd88c&hm=f45c7c515c672b6010206e37d387b90f916afb5748d178b812a34459a29f729a&" alt="" width="820">
-<img title="" src="https://cdn.discordapp.com/attachments/1223099035162771528/1283270003491213394/Sans_titre.png?ex=66e261d2&is=66e11052&hm=e8f1d2997fc5e829131f876d9841f0f258c4fb9d4b1a69650978f4ae7f3c4feb&" alt="" width="820">
-<img title="" src="https://cdn.discordapp.com/attachments/1206389634926383234/1230294887778357300/image.png?ex=66db8c67&is=66da3ae7&hm=6facdb3d3b1d4bbb59e584dc7bf8b74ebd099b19e2310943b8bc4ce44d80e923&" alt="" width="820">
+<img title="" src="https://cdn.discordapp.com/attachments/1286739490852966430/1287065569530613851/image.png?ex=66f030b8&is=66eedf38&hm=4ee11da9349c1e7a405e8a0dbbe7b40d2d5bbfa543fcd3bae80ada40604bc8b4&" alt="" width="820">
 <a id="todo"></a>
 
 ---
