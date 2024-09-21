@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/doenerium6969/doenerium-fixed?style=flat">
+<img src="https://img.shields.io/github/last-commit/dedsec1313/dedsecstealer?style=flat">
 <img src="https://img.shields.io/github/stars/dedsec1313/doenerium?color=brightgreen">
 <img src="https://img.shields.io/github/forks/doenerium69/doenerium?color=brightgreen">
 </p>

